@@ -37,7 +37,7 @@ Currently focused on:
 **Languages:** C++, C#, JavaScript, Python  
 **Engines & Frameworks:** Unreal Engine 5, Unity, SFML, Express.js  
 **Databases:** MongoDB, PostgreSQL  
-**Other tools:** Docker, Git, Postman, NPOI, XML serialization  
+**Other tools:** Docker, Git, Postman, XML serialization  
 
 ---
 
