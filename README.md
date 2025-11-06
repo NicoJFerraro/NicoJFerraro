@@ -3,7 +3,6 @@
 
 <img width="350vw" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NicoJFerraro&layout=compact&theme=tokyonight" align="right" style="margin: 0 1em 1em 0">
 
----
 
 ## 🧠 About me
 I'm a developer passionate about **games, backend systems, and creative technology**.  
