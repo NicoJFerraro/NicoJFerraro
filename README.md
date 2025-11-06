@@ -43,7 +43,7 @@ Currently focused on:
 
 ## 📫 Contact
 💼 [LinkedIn](https://www.linkedin.com/in/nicojferraro/)  
-📧 ferraro.nicolas.dev@gmail.com  
+📧 nicolas.ferraro@gmail.com  
 🌐 [Portfolio (itch.io)](https://afipinspector.itch.io/)
 
 ---
