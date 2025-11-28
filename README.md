@@ -1,5 +1,6 @@
-# 👋 Hi! I'm Nicolás Ferraro  
-🎮 **Game & Software Developer** | 💻 **C++ / C# / Unity / Node.js / AI Engineer**
+# 👋 Hi! I'm Nicolás Ferraro
+### 🚀 Senior Software Engineer | Backend & Systems Architecture
+**Node.js / C++ / AI Integration / High-Performance Systems**
 
 ---
 
@@ -10,48 +11,66 @@
 ---
 
 ## 🧠 About me
-I'm a developer passionate about **games, backend systems, AI, and creative technology**.  
-I enjoy building experiences that blend **performance, design, and solid architecture** — from native C++ games to scalable backend services and intelligent conversational systems.
+I am a **Senior Software Engineer** transitioning from high-performance Game Engine development to **Scalable Backend Architectures**.
+I apply the discipline of **C++ memory management and optimization** to build efficient server-side systems and intelligent AI solutions.
 
-Currently focused on:
-- Game development with **Unreal Engine 5** and **Unity**
-- Backend architecture with **Node.js + Express**
-- **AI/LLM integration** and conversational systems
-- Data-driven systems and software design
-
----
-
-## 🕹️ Featured Projects
-- 🌊 [**Celacanto**](https://github.com/NicoJFerraro/Celacanto)  
-  Multiplayer shooter developed in **Unreal Engine 5 (C++)**, focused on **network replication, authority, and Steam subsystem integration**.  
-  Includes session handling (create, join, list, destroy), modular weapons, character movement, health system, and UI prototypes.  
-
-- 🤖 [**AI Home Assistant**](https://github.com/NicoJFerraro/ai-assistant-api)  
-  Full-stack AI chatbot with **conversation memory** built with **Node.js, Express, React, and TypeScript**.  
-  Features context-aware responses, Ollama LLM integration, Zod validation, and a modern React UI with Vite.
-
-- 🐸 [**ArgenFrogger**](https://github.com/NicoJFerraro/ArgenFrogger)  
-  A modern reinterpretation of *Frogger* built with **C++ + SFML**, featuring procedural generation (seed-based), XML save/load, and a pause menu with dynamic UI.  
-
-- ⚙️ [**Backend Course Project**](https://github.com/NicoJFerraro/Backend-Course)  
-  RESTful API built with **Node.js + Express**, featuring modular routes, environment config, and basic CRUD operations.
+**My Core Focus:**
+* 🏗️ **Backend Architecture:** Node.js, Express, Microservices.
+* 🤖 **AI Engineering:** RAG Systems, LLM Integration (OpenAI/Ollama).
+* ⚡ **High-Performance Systems:** C++ Networking, Multiplayer replication, Low-level optimization.
 
 ---
 
-## 🧩 Technologies & Tools
-**Languages:** C++, C#, JavaScript, TypeScript, Python  
-**Engines & Frameworks:** Unreal Engine 5, Unity, SFML, Express.js, React, Vite  
-**AI/LLM:** Ollama, OpenAI API integration, conversation memory systems  
-**Databases:** MongoDB, PostgreSQL  
-**Other tools:** Docker, Git, Postman, XML serialization, Zod validation  
+## 🛠️ Tech Stack
+
+**Backend & Cloud**
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
+</p>
+
+**Systems & Languages**
+<p>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white" />
+</p>
+
+---
+
+## 📂 Featured Projects
+
+### 🤖 AI & Backend Systems
+
+- [**AI Home Assistant (RAG)**](https://github.com/NicoJFerraro/ai-assistant-api)
+  *Full-stack conversational agent with memory and context awareness.*
+  - **Stack:** Node.js, Express, React, TypeScript, Ollama LLM.
+  - **Key Tech:** Context-aware responses, Zod validation, Vector logic for memory.
+
+- [**Scalable E-Commerce API**](https://github.com/NicoJFerraro/Backend-Course)
+  *RESTful API architecture for high-traffic sales platforms.*
+  - **Stack:** Node.js, Express, MongoDB.
+  - **Key Tech:** Modular routing, Environment configuration, CRUD operations, Scalable patterns.
+
+### ⚡ High-Performance Engineering (C++ / Games)
+
+- [**Celacanto (Multiplayer Networking)**](https://github.com/NicoJFerraro/Celacanto)
+  *Advanced networking system implemented in Unreal Engine 5 (C++).*
+  - **Focus:** Server Authority, Network Replication, Steam Subsystem Integration.
+  - Demonstration of complex state management and real-time data exchange.
+
+- [**ArgenFrogger (Low-Level C++)**](https://github.com/NicoJFerraro/ArgenFrogger)
+  *Engine-less implementation using C++ and SFML.*
+  - **Focus:** Memory management, Procedural Generation (Seed-based), XML Serialization from scratch.
 
 ---
 
 ## 📫 Contact
-💼 [LinkedIn](https://www.linkedin.com/in/nicolas-ferraro-profile/)  
-📧 nicolas.ferraro@gmail.com  
+💼 [LinkedIn](https://www.linkedin.com/in/nicolas-ferraro-profile/)
+📧 nicolas.ferraro@gmail.com
 🌐 [Portfolio (itch.io)](https://afipinspector.itch.io/)
 
 ---
-
-⭐️ *Thanks for visiting! Feel free to explore my repositories or reach out for collaborations.*
