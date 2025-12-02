@@ -5,7 +5,7 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats-nine-omega-7cl.vercel.app/api/top-langs/?username=NicoJFerraro&layout=compact&theme=tokyonight&langs_count=6&hide_border=true&card_width=700" alt="Most Used Languages" />
+  <img src="https://github-readme-stats-nine-omega-70.vercel.app/api/top-langs/?username=NicoJFerraro&layout=compact&theme=tokyonight&langs_count=6&hide_border=true&card_width=700" alt="Most Used Languages" />
 </p>
 
 ---
