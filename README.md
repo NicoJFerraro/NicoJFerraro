@@ -1,5 +1,5 @@
 # 👋 Hi! I'm Nicolás Ferraro
-### 🚀 Senior Software Engineer | Backend & Systems Architecture
+### 🚀 Senior Software Engineer | Backend & Systems Architecture | Game Dev
 **Node.js / C++ / AI Integration / High-Performance Systems**
 
 ---
