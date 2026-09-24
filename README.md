@@ -22,7 +22,7 @@ Engine-less game in C++ and SFML, built for a C++ course at Image Campus. Seed-b
 
 ## Stack
 
-Python, Django, TypeScript, Node.js, PostgreSQL, AWS, Terraform, Docker, GitHub Actions, C#, Unity, C++
+Python, Django, Node.js, PostgreSQL, AWS, Terraform, Docker, GitHub Actions, C#, Unity, C++
 
 ## Contact
 
