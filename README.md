@@ -14,9 +14,6 @@ Most of that work is private. The repos below are the public side.
 
 ## Selected projects
 
-**[ai-assistant-api](https://github.com/NicoJFerraro/ai-assistant-api)**
-Chat assistant running local models through Ollama. TypeScript and Express backend with Zod request validation, React client, Docker Compose setup.
-
 **[ArgenFrogger](https://github.com/NicoJFerraro/ArgenFrogger)**
 Engine-less game in C++ and SFML, built for a C++ course at Image Campus. Seed-based procedural levels and an XML save system. [Playable on itch.io](https://afipinspector.itch.io/argenfrogger).
 
